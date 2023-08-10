@@ -1,0 +1,32 @@
+.container{
+    border: 2px solid rosybrown;
+    height: max-content;
+    display: flex;
+
+}
+
+.info{
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    // height: 2rem;
+    padding-top: 10px;
+    border: 2px solid rgba(250, 128, 114, 0.384);
+}
+.contact-info{
+    // height: 2rem;
+    border: 2px solid rgba(0, 0, 0, 0.336);
+    width: 30%;
+}
+
+.test-input{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 17px;
+    width: 23rem;
+    border-bottom: 2px solid black;
+    height: 37px;
+    margin-right: 17px;
+    border: 1px solid gray;
+    border-radius: 3px;
+}
